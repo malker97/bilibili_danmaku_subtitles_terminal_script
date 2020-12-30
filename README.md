@@ -1,5 +1,6 @@
 # bilibili_danmaku_subtitles_terminal_script
 这是一个基于nodejs的终端B站弹幕脚本
+# HXD们能不能帮忙点个star呀
 ## 怎么用？
 理论上你是需要使用npm安装依赖的，分别是fetch,xml2js,sleep
 然后就可以用```nodejs *.js```，然后输入BV号就可以运行了
