@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
-const convert = require('xml-js');
-const sleep = require('sleep');
+const convert = require('./node_modules/xml-js');
+const sleep = require('./node_modules/sleep');
 var duration = 0;//这个是视频的长度
 const readline = require('readline').createInterface({
   input: process.stdin,

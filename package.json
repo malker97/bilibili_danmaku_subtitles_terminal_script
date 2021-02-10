@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sleep": "^6.3.0",
+    "xml-js": "^1.6.11"
+  }
+}
