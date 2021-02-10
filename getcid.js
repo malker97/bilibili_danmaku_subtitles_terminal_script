@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+const fetch = require("./node_modules/node-fetch");
 const convert = require('./node_modules/xml-js');
 const sleep = require('./node_modules/sleep');
 var duration = 0;//这个是视频的长度
